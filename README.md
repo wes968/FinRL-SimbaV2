@@ -23,4 +23,9 @@ cd FinRL-SimbaV2
 pip install .
 ```
 . 代表當前目錄。這個命令會讓 pip 讀取當前目錄下的 setup.py 或 pyproject.toml 配置文件，根據裡面的設定來構建並安裝該項目到你的 Python 環境中
-### 7. 執行simba-v2.ipynb、simba-v2_1.ipynb
+### 7. 安裝 pandas_market_calendars
+```
+pip install pandas_market_calendars
+```
+### 8. VSCode打開後，因為要跑.ipynb，會提示要裝ipykernel
+### 9. 執行simba-v2.ipynb、simba-v2_1.ipynb
