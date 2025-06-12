@@ -10,9 +10,9 @@ python -m pip install --upgrade pip
 ```
 python -m pip install --upgrade setuptools
 ```
-### 4. Clone FinRL
+### 4. 下載FinRL-SimbaV2
 ```
-git clone https://github.com/AI4Finance-Foundation/FinRL.git
+git clone https://github.com/wes968/FinRL-SimbaV2.git
 ```
 ### 5. 進入FinRL目錄
 ```
