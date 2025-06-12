@@ -14,9 +14,9 @@ python -m pip install --upgrade setuptools
 ```
 git clone https://github.com/wes968/FinRL-SimbaV2.git
 ```
-### 5. 進入FinRL目錄
+### 5. 進入FinRL-SimbaV2目錄
 ```
-cd FinRL
+cd FinRL-SimbaV2
 ```
 ### 6. 安裝 FinRL 需要的套件
 ```
